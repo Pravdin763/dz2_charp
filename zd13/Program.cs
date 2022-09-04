@@ -4,7 +4,7 @@ int len = num.Length;
 
 if (len > 2)
 {
-Console.WriteLine(num[2]);
+    Console.WriteLine(num[2]);
 }
-else  Console.WriteLine("третей цифры нет");
+else Console.WriteLine("третей цифры нет");
 
